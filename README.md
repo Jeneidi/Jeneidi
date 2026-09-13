@@ -1,6 +1,6 @@
 ## Mohammad Jeneidi
 
-I build LLM and agent systems, then build the evaluation harness that proves they actually work. Honors CS with a Math minor at Florida State University, 3.88 GPA, class of 2028.
+I build LLM and agent systems, then build the evaluation harness that proves they actually work. Honors CS with a Math minor at Florida State University, 3.9 GPA, class of 2028.
 
 **Looking for an AI/ML or applied-LLM internship for Summer 2027.** Tallahassee FL, open to remote, hybrid or relocation. (Updated September 2026.)
 
